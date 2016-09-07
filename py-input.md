@@ -1,5 +1,7 @@
 Requires: [Running programs in the terminal](./running-in-terminal.md)
+
 Requires: [Python: variables](./py-var.md)
+
 Requires: [Python: printing text](./py-print.md)
 
 # Getting data from the user

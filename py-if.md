@@ -1,4 +1,6 @@
+
 Requires: [Running programs in the terminal](./running-in-terminal.md)
+
 Requires: [Python: printing text](./py-print.md)
 
 # Making decisions with `if`
